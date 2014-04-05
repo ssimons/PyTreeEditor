@@ -12,11 +12,11 @@ data of the identifier.
 
 ### Features:
 
-* '''delimiters''' for the identifier lines are '''configurable'''
-* easily '''navigate''' even through '''large files'''
-* '''branches''' can be '''selected''' to display their '''text representation'''
-* tree elements can be '''edited, exchanged''' and '''much more'''
-* open a '''second file/tree''' to compare or '''copy tree elements''' to another tree
+* **delimiters** for the identifier lines are **configurable**
+* easily **navigate** even through **large files**
+* **branches** can be **selected** to display their **text representation**
+* tree elements can be **edited, exchanged** and **much more**
+* open a **second file/tree** to compare or **copy tree elements** to another tree
 
 PyTreeEditor is written in Python 2.7 and PyQt4.
 The program was inpired by a friend who does computational structural analysis 
@@ -30,6 +30,8 @@ In order to learn Python and Qt/PyQt, I have developed this tool.
 Feel free to give me feedback. For this, please send me an e-mail: 
 gitproject@s-simons.de
 
-'''Help page:''' http://www.s-simons.de/tree_editor_help.html
-'''Download Version 0.9.0 for Windows'''http://www.s-simons.de/freeware/PyTreeEditor.zip
-'''Project site:''' http://www.s-simons.de/tree_editor.html
+**Help page:** http://www.s-simons.de/tree_editor_help.html
+
+**Download Version 0.9.0 for Windows**http://www.s-simons.de/freeware/PyTreeEditor.zip
+
+**Project site:** http://www.s-simons.de/tree_editor.html
