@@ -102,5 +102,5 @@ def change_window_title(file_name, main_window):
     file_name_if_exists = ""
     if file_name != "":
         file_name_if_exists = "File:" + file_name
-    main_window.setWindowTitle("tree_editor V0.8 |" + file_name_if_exists)
+    main_window.setWindowTitle("tree_editor V0.9.0 |" + file_name_if_exists)
 
