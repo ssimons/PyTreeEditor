@@ -33,7 +33,7 @@ LS-Dyna (http://de.wikipedia.org/wiki/LS-DYNA) , LaTeX
 In order to learn Python and Qt/PyQt, I have developed this tool.
 
 Feel free to give me feedback. For this, please send me an e-mail: 
-gitproject@s-simons.de
+ghprojects@s-simons.de
 
 **Help page:** http://www.s-simons.de/tree_editor_help.html
 
