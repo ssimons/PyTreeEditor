@@ -107,7 +107,7 @@ class GuiMenu(QMenuBar):
                         self._show_or_hide_second_window_file)
         menu1.addAction(self.two_windows_action)
 
-        configuration_gui_action = QAction("configuration", self)
+        configuration_gui_action = QAction("Configuration", self)
         QObject.connect(configuration_gui_action,
                         SIGNAL('triggered()'),
                         self._gui_open_configuration)
@@ -117,7 +117,7 @@ class GuiMenu(QMenuBar):
                         SIGNAL('triggered()'),
                         lambda: InfoLicenseWindow(self.main_window))
         menu1.addAction(info_license_action)
-        help_gui_action = QAction("help", self)
+        help_gui_action = QAction("Help", self)
         QObject.connect(help_gui_action,
                         SIGNAL('triggered()'),
                         lambda: webbrowser.open(self.HELP_WEBSITE_LINK, 1))

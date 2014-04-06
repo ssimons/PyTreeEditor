@@ -209,9 +209,12 @@ class MainGUI(QObject):
         if not os.path.isfile(config_filename):
             logging.debug("configuration file %s doesn't exist.",
                           config_filename)
-            QMessageBox.warning(self.window, "Warning",
-                        '''configuration file doesn't exist:'''
-                        + config_filename + ''' Use a new one''')
+            QMessageBox.information(self.window, "Info",
+                        '''No configuration file ('''
+                        + config_filename + ''') found. The default configuration is 
+                        used. Change it in the configuration window (see menu 
+                        View - Help). Afterwards a text file should be opened 
+                        (menu MainFile - Open file).''')
             return Configuration()
         try:
             #try to open saved configuration and use it
