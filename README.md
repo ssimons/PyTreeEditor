@@ -20,7 +20,7 @@ easily with the data of the identifier.
 * tree elements can be **edited, exchanged** and **much more**
 * open a **second file/tree** to compare or **copy tree elements** to another tree
 
-PyTreeEditor is written in Python 2.7 and PyQt4.
+It is written in Python 2.7 and PyQt4.
 
 The program was inpired by a friend who does computational structural analysis 
 with their custom software. He will use the program for their input files.
@@ -37,6 +37,8 @@ ghprojects@s-simons.de
 
 **Help page:** http://www.s-simons.de/tree_editor_help.html
 
-**Download** Version 0.9.0 for Windows http://www.s-simons.de/freeware/PyTreeEditor.zip
+**Download** Version 0.9.0 for Windows (8.9 MB)  http://www.s-simons.de/freeware/PyTreeEditor.zip
+			 Version 0.9.0 for Linux binary (40.1 MB - PyQt included) http://www.s-simons.de/freeware/tree_editor.tar.gz
+			 Alternatively download zipped source from github and start "tree_editor.py".
 
 **Project site:** http://www.s-simons.de/tree_editor.html
